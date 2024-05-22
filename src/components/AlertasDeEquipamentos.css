@@ -1,0 +1,19 @@
+.alertas-de-equipamentos {
+  height: 219.39px;
+  background-color: #fff;
+  padding: 8px;
+  /* Reduzido */
+  border-radius: 6px;
+  /* Reduzido */
+  margin-bottom: 8px;
+  /* Reduzido */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-left: 50px;
+}
+
+.alertas-de-equipamentos .tabela-wrapper {
+  overflow-y: auto;
+  max-height: 150px;
+  /* Defina a altura máxima da tabela para ativar o scroll */
+  width: 800px;
+}

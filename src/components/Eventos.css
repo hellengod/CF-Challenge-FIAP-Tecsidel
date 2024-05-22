@@ -1,0 +1,93 @@
+.eventos {
+  background-color: #fff;
+  padding: 6px;
+  /* Reduzido */
+  border-radius: 6px;
+  /* Reduzido */
+  margin-bottom: 8px;
+  /* Reduzido */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-left: 50px;
+  height: 100%px;
+}
+
+.evento-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+  padding: 5px;
+  border-bottom: 1px solid #ddd;
+  position: relative;
+  /* Adiciona posição relativa ao contêiner */
+}
+
+.info-evento {
+  flex: 1;
+  margin-left: 10px;
+}
+
+.evento-imagem {
+  width: 40px;
+  height: 40px;
+}
+
+.evento-icon {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  /* Adiciona posição absoluta à imagem */
+  right: 0;
+  /* Alinha a imagem à direita */
+}
+
+
+.evento-info {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: white;
+}
+
+.info-evento {
+  margin-left: 10px;
+  /* Espaço à esquerda */
+}
+
+.placa {
+  font-weight: bold;
+  /* Placa em negrito */
+  margin-right: 5px;
+  /* Espaço à direita */
+}
+
+.modelo,
+.tempo,
+.velocidade {
+  margin-right: 5px;
+  /* Espaço à direita */
+}
+
+
+.evento-item img {
+  width: 30px;
+  /* Diminuído */
+  height: 30px;
+  /* Diminuído */
+  margin-right: 8px;
+  /* Mantido */
+}
+
+.placa {
+  font-weight: bold;
+}
+
+
+.eventos-container {
+  max-height: 150px;
+  /* Defina a altura máxima para ativar o scroll */
+  overflow-y: auto;
+  /* Adiciona uma barra de rolagem vertical quando o conteúdo excede a altura máxima */
+}

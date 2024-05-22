@@ -1,0 +1,74 @@
+#navbar {
+
+    background: #000000;
+    border-radius: 27.7754px;
+    z-index: 1000;
+    position: absolute;
+    width: 152.76px;
+    height: 986.03px;
+    left: 51px;
+    top: 107px;
+
+}
+
+.logo {
+    position: absolute;
+    left: 20px;
+    top: 30px;
+}
+
+.logo img {
+    width: 100.75px;
+    height: 97.64px;
+}
+
+/* Navigation Links Styling */
+ul {
+    list-style: none;
+    margin-top: 170px;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+li {
+    margin: 15px 0;
+    margin-bottom: 30px;
+}
+
+li:last-child {
+    margin-bottom: 0;
+}
+
+li a img {
+    width: 33px;
+    height: 33px;
+    margin-left: 61px;
+}
+
+/* Logout Styling */
+.logout {
+    position: absolute;
+    left: 43.18%;
+    right: 37.04%;
+    top: 91.9%;
+    bottom: 5.03%;
+}
+
+.logout img:hover {
+    height: 38px;
+    width: 38px;
+}
+
+.Logout img:active {
+    /* Button styles when clicked */
+    transform: translateY(2px);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.logout img {
+    width: 33px;
+    height: 33px;
+    transition: all 0.3s ease;
+}

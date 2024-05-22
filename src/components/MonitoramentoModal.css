@@ -1,0 +1,74 @@
+.modal-monitoramento {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.monitoramento-content {
+    background-color: white;
+    padding: 59px 87px 87px 87px;
+    border-radius: 10px;
+    width: 1289px;
+    height: 667px;
+    position: relative;
+}
+
+.buttons-monitoramento {
+    position: absolute;
+    top: 59px;
+    right: 87px;
+    display: flex;
+}
+
+.botao-monitoramento {
+    width: 60px;
+    /* Adjust size as needed */
+    height: 57px;
+    /* Adjust size as needed */
+    margin-right: 10px;
+    /* Adjust spacing between buttons */
+}
+
+
+.monitoramento-header {
+    font-size: 45.47px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.monitoramento-subtitle {
+    font-size: 27.28px;
+    margin: 0;
+    margin-bottom: 46px;
+    color: #888;
+}
+
+.cameras {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.camera {
+    background-color: #ccc;
+    height: 262px;
+    width: 420px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+.camera img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

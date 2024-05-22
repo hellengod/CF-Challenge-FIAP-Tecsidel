@@ -1,0 +1,94 @@
+.modal-mapa {
+  display: none;
+  position: fixed;
+  z-index: 1001;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  overflow: auto;
+  background-color: transparent;
+}
+
+.modal-content {
+  background-color: #fff;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 1450px;
+  height: 1000px;
+  border-radius: 15px;
+}
+
+.close {
+  position: absolute;
+  color: #aaa;
+  top: 5px;
+  right: 10px;
+  font-size: 24px;
+  cursor: pointer;
+}
+.closeRelatorio{
+  position: absolute;
+  color: #aaa;
+  top: 250px;
+  right: 680px;
+  font-size: 24px;
+  cursor: pointer;
+}
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.modal-header {
+  text-align: center;
+}
+
+.modal-title {
+  font-size: 35px;
+  font-weight: bold;
+  font-family: 'Lato', sans-serif;
+  /* Aplica a fonte Lato */
+  line-height: 15px;
+
+}
+
+.modal-subtitle {
+  font-size: 22px;
+  font-family: 'Lato', sans-serif;
+  /* Aplica a fonte Lato */
+  line-height: 1px;
+  color: #888;
+  /* Cor cinza */
+
+}
+
+.modal-logos {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 1320px;
+}
+
+
+.modal-map {
+  text-align: center;
+}
+
+.modal-map img {
+  width: 1239.77px;
+  height: 823px;
+  height: auto;
+}
+
+.modal-logos img {
+  max-width: 100px;
+  margin: 0 10px;
+  width: 45px;
+  height: 45px;
+}
+
+h1,
+p {
+  text-align: left;
+}

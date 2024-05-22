@@ -1,0 +1,67 @@
+.custom-marker {
+    display: flex;
+    align-items: center;
+    background: white;
+    border-radius: 13px;
+    width: 473px;
+    height: 75px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+
+.status-image {
+    width: 60px;
+    /* Adjust size as needed */
+    height: 60px;
+    /* Adjust size as needed */
+    margin-right: 10px;
+    border-radius: 7px;
+}
+
+.marker-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.marker-text {
+    font-family: 'Lato', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    /* Align items to the start (left) */
+    /* Remove or comment out the 'justify-content: space-between;' line */
+}
+
+.marker-text h4 {
+    margin: 0;
+    font-size: 14.92px;
+    font-weight: bold;
+}
+
+.marker-text p {
+    margin: 5px 0 0 0;
+    font-size: 12.12px;
+    color: #000000;
+}
+
+.marker-buttons {
+    display: flex;
+    align-items: center;
+    /* Center buttons vertically */
+}
+
+.marker-buttons img {
+    width: 41px;
+    height: 39px;
+    margin-left: 12px;
+    cursor: pointer;
+}
+
+.marker-buttons img:last-child {
+    margin-right: 20px;
+}
+
+.marker-buttons img:hover {
+    opacity: 0.7;
+}

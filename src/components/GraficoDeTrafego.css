@@ -1,0 +1,92 @@
+.grafico-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #fff;
+  padding: 5px;
+  border-radius: 10px;
+  font-size: 10px;
+  width: 150px; /* Ajuste a largura conforme necessário */
+  margin: 0 auto;
+}
+
+.taxa-evasao,
+.classificacao-rodovia {
+  background-color: #f9f9f9;
+  padding: 5px;
+  border-radius: 10px;
+  width: 100px; /* Diminuído de 150px */
+  height: 60px; /* Altura reduzida */
+  margin-bottom: 5px;
+  margin: 0;
+  text-align: center;
+}
+
+.taxa-evasao h3,
+.classificacao-rodovia h3 {
+  font-size: 10px;
+  margin: 0;
+}
+
+.taxa-evasao p,
+.classificacao-rodovia p {
+  font-size: 5px;
+}
+
+.grafico-de-trafego {
+  background-color: #fff;
+  padding: 5px;
+  border-radius: 10px;
+  font-size: 10px;
+  height: 150px; /* Altura definida como 443px */
+  width: 500.69px; /* Largura definida como 526.69px */
+}
+
+.classificacao-rodovia {
+  background-color: #f9f9f9;
+  padding: 5px;
+  border-radius: 10px;
+  width: 100px; /* Diminuído de 150px */
+  height: 60px; /* Altura reduzida */
+  margin-bottom: 5px;
+  margin: 0;
+}
+
+.classificacao-rodovia h3 {
+  font-size: 30px;  /* Tamanho do número */
+  line-height: 10px;  /* Altura da linha */
+  margin: 0;
+}
+
+.classificacao-rodovia p {
+  font-size: 15px;  /* Tamanho do texto */
+  line-height: 7px;  /* Altura da linha */
+  margin: 0;
+}
+
+.grafico-container {
+  position: relative;
+  
+}
+
+.textos-grafico {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  right: 10px; /* Define o espaço para os textos */
+  display: flex;
+  align-items: center; /* Alinha os elementos verticalmente */
+}
+
+.textos-grafico span {
+  font-weight: bold;
+  font-size: 13px;
+}
+
+.volume-maximo {
+  color: #000;
+}
+
+.evasao {
+  color: #808080;
+}
