@@ -65,4 +65,4 @@ Este projeto foi desenvolvido por uma equipe da FIAP como parte de um desafio ac
 - Jhonatan Andrews Kanauber
 - Nataly Aparecida Mendes Ferreira
 - João Gabriel Bortoto de Matos
-- Vitor Naves Pereira
+- Vitor Naves Pereira 
