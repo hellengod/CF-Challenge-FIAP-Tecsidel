@@ -22,39 +22,37 @@ O projeto consiste em desenvolver uma interface de login utilizando React, HTML 
 ## Telas do Projeto
 
 ### Tela de Login 
-![image](https://github.com/hellengod/challenge_tecsidel/assets/124691241/c67bae88-61ae-4591-ab71-bc789d79fc1d)
 
+![Captura de tela 2024-05-22 123234](https://github.com/hellengod/Challenge-FIAP-Tecsidel/assets/124691241/6041209b-75a8-4a66-9575-5934e15aaf66)
 
 A tela de login é a primeira interface desenvolvida para este projeto. Ela permite que os usuários acessem o sistema de monitoramento com suas credenciais.
 
 ### Mapa de rodovias 
-![image](https://github.com/hellengod/challenge_tecsidel/assets/124691241/89284023-9043-4076-8c20-059b46eb18d8)
+![Captura de tela 2024-05-22 123434](https://github.com/hellengod/Challenge-FIAP-Tecsidel/assets/124691241/1b7a1fc8-e70a-4059-9b15-ec2c827055fd)
 
 A tela com Mapa das Rodovias permite navegar, pesquisar e localizar as estações Free Flow, alem de obter mais informações sobre cada estação.
 
 ### Tela de Monitoramento 
-![image](https://github.com/hellengod/challenge_tecsidel/assets/124691241/150a6e6e-a3b5-454d-83b6-737f8597bc79)
+![Captura de tela 2024-05-22 123605](https://github.com/hellengod/Challenge-FIAP-Tecsidel/assets/124691241/9f78bf13-575f-43bb-adb0-258fbfb37ff2)
 
 A Tela de Monitoramente permite observar em tempo real as estações Free Flow.
 
 ### Relatórios e Estatísticas
-![image](https://github.com/hellengod/challenge_tecsidel/assets/124691241/b3c72c92-e43b-4820-8656-c42285b0548c)
+![Captura de tela 2024-05-22 123755](https://github.com/hellengod/Challenge-FIAP-Tecsidel/assets/124691241/8f50c670-6b7a-459d-b47e-21f83379e710)
 
 A Tela de relatorios e estatisticas permite acompanhar diversar informações a partir de um dashboard, alem de realizar chamados tecnicos em caso de equipamentos danificados ou erros.
 
 ### Mapa Da Estação
 
-![image](https://github.com/hellengod/challenge_tecsidel/assets/124691241/ffb9a03f-ec33-4803-a9c9-af79f9e3b24e)
+![Captura de tela 2024-05-22 123925](https://github.com/hellengod/Challenge-FIAP-Tecsidel/assets/124691241/296bea15-3501-4395-902f-754b3ab4d518)
 
 A Tela Mapa da Estação permite observar como vai o andamento de cada equipamento da estação alem de visualizar a localização de cada equipamento.
 
 ## Estrutura de Dados
+![APznzaapqqyhKaSVCvdcdrYxo-eb3uBU_ujYr3ixrGG2uEDlaz485OEcbk6Fa3zsZbFa9IOgcDRKpyH8eQ54WNhcQO4CXw0UTBP70v2SqqsrFnseTvVySyhtV_R3DqMFZB0V - Yp7JBUwsoS0nmjcv3gFmURTJYBKNQplP0nwCQ5k321TV9hHCsob1x02zYvmePG9vi3iJcgdtH_page-](https://github.com/hellengod/Challenge-FIAP-Tecsidel/assets/124691241/4387681c-f1ed-4e58-8325-e8a66d6e9ae9)
 
-![APznzaapqqyhKaSVCvdcdrYxo-eb3uBU_ujYr3ixrGG2uEDlaz485OEcbk6Fa3zsZbFa9IOgcDRKpyH8eQ54WNhcQO4CXw0UTBP70v2SqqsrFnseTvVySyhtV_R3DqMFZB0V - Yp7JBUwsoS0nmjcv3gFmURTJYBKNQplP0nwCQ5k321TV9hHCsob1x02zYvmePG9vi3iJcgdtH_page-](https://github.com/hellengod/challenge_tecsidel/assets/124691241/383a04ea-e5bb-4cd0-b071-9a23ec9874b5)
 
-
-![Relational_1 png_page-0001](https://github.com/hellengod/challenge_tecsidel/assets/124691241/435b9a54-83fa-483a-8530-d44f3f18c956)
-
+![Relational_1 png_page-0001](https://github.com/hellengod/Challenge-FIAP-Tecsidel/assets/124691241/8b976e71-10ce-43c6-8cd2-c72f5c361f7b)
 
 
 ## Equipe
